@@ -2,10 +2,9 @@
 # NIST Zero Trust Standard: A Comprehensive Explanation
 
 ## Introduction
+Zero Trust is a cybersecurity paradigm that has evolved greatly in recent years, with NIST (National Institute of Standards and Technology) offering one of the most thorough frameworks in Special Publication 800-207. At its foundation, Zero Trust changes the security focus away from traditional network perimeters and toward securing resources regardless of location.
 
-Zero Trust is a cybersecurity paradigm that has evolved significantly in recent years, with NIST (National Institute of Standards and Technology) providing one of the most comprehensive frameworks through Special Publication 800-207. At its core, Zero Trust shifts security focus from traditional network perimeters to protecting resources regardless of their location.
-
-The key tenet is **"never trust, always verify"** - every access request must be fully authenticated, authorized, and encrypted before access is granted, with continuous validation throughout the session.
+The essential tenet is "never trust, always verify": every access request must be completely authenticated, permitted, and encrypted before being given, with ongoing validation throughout the session.
 
 ## Fundamental Tenets of NIST Zero Trust
 
