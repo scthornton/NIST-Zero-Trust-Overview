@@ -228,3 +228,17 @@ Adopting the NIST Zero Trust framework enables enterprises to enhance their secu
 - [CISA Zero Trust Maturity Model](https://www.cisa.gov/zero-trust-maturity-model) - Implementation guidance for federal agencies
 - [NIST Cybersecurity Framework](https://www.nist.gov/cyberframework) - Complementary framework for overall security posture
 - [NCCoE Zero Trust Architecture](https://www.nccoe.nist.gov/projects/building-blocks/zero-trust-architecture) - Practical implementation examples and use cases
+
+---
+
+## Contact
+
+**Scott Thornton** — AI Security Researcher
+
+- Website: [perfecxion.ai](https://perfecxion.ai/)
+- Email: [scott@perfecxion.ai](mailto:scott@perfecxion.ai)
+- LinkedIn: [linkedin.com/in/scthornton](https://www.linkedin.com/in/scthornton)
+- ORCID: [0009-0008-0491-0032](https://orcid.org/0009-0008-0491-0032)
+- GitHub: [@scthornton](https://github.com/scthornton)
+
+**Security Issues**: Please report via [SECURITY.md](SECURITY.md)
